@@ -6,11 +6,9 @@
 
 As a data analyst exploring the electric vehicle dataset, our goal is to uncover patterns and trends that define the evolving landscape of EV adoption. With a comprehensive view of over 191,000 EVs and 147 unique models, we aim to analyze adoption trends, regional distribution, and model preferences. By examining metrics like electric range, vehicle type, and geographic insights, we will identify key drivers behind EV growth and provide valuable recommendations to stakeholders. This journey through the data will help us understand the factors shaping the transition to sustainable transportation.
 
-- [Dataset Here](https://github.com/NishaChandila/Electric-Vehicle-EDA-/blob/main/Electric_Vehicle_Population_Data.csv)
-
-- [Power BI Dashboard](https://github.com/NishaChandila/Electric-Vehicle-EDA-/blob/main/Electric-Vehicle-Dashboard.pdf)
-
-- [Data Cleaning & EDA](https://github.com/NishaChandila/Electric-Vehicle-EDA-/blob/main/electric-vehicle-eda.ipynb)
+- Electric Vehicle [Dataset Here](https://github.com/NishaChandila/Electric-Vehicle-EDA-/blob/main/Electric_Vehicle_Population_Data.csv)
+- Electric Vehicle [Power BI Dashboard](https://github.com/NishaChandila/Electric-Vehicle-EDA-/blob/main/Electric-Vehicle-Dashboard.pdf)
+- Electric Vehicle [Data Cleaning & EDA](https://github.com/NishaChandila/Electric-Vehicle-EDA-/blob/main/electric-vehicle-eda.ipynb)
 
 ## DATA STRUCTURE
 
@@ -30,7 +28,7 @@ The dataset consists of 191,400 rows and multiple columns that capture detailed 
 
 This dataset offers a detailed overview of EV adoption, performance, and geographic patterns.
 
-- [Dataset Here](https://github.com/NishaChandila/Electric-Vehicle-EDA-/blob/main/Electric_Vehicle_Population_Data.csv)
+- Electric Vehicle [Dataset Here](https://github.com/NishaChandila/Electric-Vehicle-EDA-/blob/main/Electric_Vehicle_Population_Data.csv)
 
 ## EXECUTIVE SUMMARY
 
@@ -58,7 +56,7 @@ This dashboard provides an analysis of electric vehicle (EV) adoption trends and
 
 This streamlined view ensures clarity and relevance for stakeholders while emphasizing key data points.
 
-- [Power BI Dashboard](https://github.com/NishaChandila/Electric-Vehicle-EDA-/blob/main/Electric-Vehicle-Dashboard.pdf)
+- Electric Vehicle [Power BI Dashboard](https://github.com/NishaChandila/Electric-Vehicle-EDA-/blob/main/Electric-Vehicle-Dashboard.pdf)
 
 ## DATA CLEANING
 
@@ -69,7 +67,7 @@ We have cleaned the dataset to ensure accuracy and readiness for analysis. Below
 - **Reviewed Vehicle Models**: Checked for inconsistencies and outliers within the vehicle models to ensure accurate data.
 - **Ensured Data Consistency**: Ensured the dataset was clean, with no discrepancies, for reliable analysis.
 
-- [Data Cleaning & EDA](https://github.com/NishaChandila/Electric-Vehicle-EDA-/blob/main/electric-vehicle-eda.ipynb)
+- Electric Vehicle [Data Cleaning & EDA](https://github.com/NishaChandila/Electric-Vehicle-EDA-/blob/main/electric-vehicle-eda.ipynb)
 
 ## RECOMMENDATION
 
@@ -87,8 +85,6 @@ The Power BI dashboard should be designed to provide a clear, interactive, and i
 
 By following these recommendations, the Power BI dashboard will be an effective tool for analyzing and visualizing EV data, providing valuable insights into EV adoption trends and model performance.
 
-- [Dataset Here](https://github.com/NishaChandila/Electric-Vehicle-EDA-/blob/main/Electric_Vehicle_Population_Data.csv)
-
-- [Power BI Dashboard](https://github.com/NishaChandila/Electric-Vehicle-EDA-/blob/main/Electric-Vehicle-Dashboard.pdf)
-
-- [Data Cleaning & EDA](https://github.com/NishaChandila/Electric-Vehicle-EDA-/blob/main/electric-vehicle-eda.ipynb)
+- Electric Vehicle [Dataset Here](https://github.com/NishaChandila/Electric-Vehicle-EDA-/blob/main/Electric_Vehicle_Population_Data.csv)
+- Electric Vehicle [Power BI Dashboard](https://github.com/NishaChandila/Electric-Vehicle-EDA-/blob/main/Electric-Vehicle-Dashboard.pdf)
+- Electric Vehicle [Data Cleaning & EDA](https://github.com/NishaChandila/Electric-Vehicle-EDA-/blob/main/electric-vehicle-eda.ipynb)
